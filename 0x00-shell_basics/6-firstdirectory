@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir /tmp/holberton
-echo $directory
+sudo  mkdir /etc/holberton
