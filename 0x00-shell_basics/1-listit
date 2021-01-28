@@ -1,0 +1,3 @@
+#!/bin/bash
+ls
+echo "Esta es su lista de Directorios actuales";
