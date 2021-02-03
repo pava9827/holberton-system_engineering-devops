@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {{a..z}{a..z},00} | tr " " "\n" | sort | uniq -u
+echo {a..z}{a..z} | tr ' ' "\n" | grep --invert-match 'oo'
